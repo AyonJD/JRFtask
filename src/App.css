@@ -6,7 +6,17 @@ body {
     background-image: url(./images/cover.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: top;
+    border-radius: 15px 70px 15px 15px;
+}
+
+.variable_stroy_cover {
+    height: 300px;
+    width: 100%;
+    background-image: url(./images/cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
     border-radius: 15px 70px 15px 15px;
 }
 

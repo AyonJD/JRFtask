@@ -1,4 +1,7 @@
 # Test for Jr Full Stack Developer
+### Live Site Link : [Test for Jr Full Stack Developer](https://jr-full-stack-developer-task-ayon.netlify.app/)
+
+### Code : [Code on GitHub repo](https://github.com/AyonJD/JRFtask)
 
 * Firs run the command prompt and open this directory.
 * Then type [npm i] if you face any error try [npm i --force] and press enter.

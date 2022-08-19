@@ -1,4 +1,5 @@
 import React from 'react';
+import AuthorProfile from '../AuthorProfile/AuthorProfile';
 import FixedHeightStory from '../StoryCards/FixedHeightStory';
 import VariableheightStory from '../StoryCards/VariableheightStory';
 
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <FixedHeightStory />
             <VariableheightStory />
+            <AuthorProfile />
         </div>
     );
 };

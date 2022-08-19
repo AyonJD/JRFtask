@@ -4,7 +4,6 @@ import polyzon from '../../images/polyzon.png';
 
 const VariableheightStory = () => {
     const [storydata, setStoryData] = useState(stories);
-    console.log(storydata);
     return (
         <div className='container mx-auto'>
             <div className="bg-white px-3 py-4 rounded-md">

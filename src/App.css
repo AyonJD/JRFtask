@@ -1,0 +1,18 @@
+body {
+    background-color: #0F142A;
+}
+
+.cover_image {
+    background-image: url(./images/cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15px 70px 15px 15px;
+}
+
+@media only screen and (max-width: 767px) {
+    .cover_image {
+        width: 100%;
+        height: 300px;
+    }
+}

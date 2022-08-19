@@ -7,4 +7,4 @@
 ## OR
 * With VS Code open this folder and follow the above second and third step.
 
-* Thank you.
+# Thank you.
